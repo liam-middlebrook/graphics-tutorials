@@ -9,3 +9,4 @@ graphics
     - transforms
         transforms GPLv3
         nested-transforms GPLv3
+        quaterions GPLv3
