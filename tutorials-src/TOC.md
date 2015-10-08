@@ -11,3 +11,4 @@ graphics
         nested-transforms GPLv3
         quaterions GPLv3
         euler_angles GPLv3
+        rotation_matrix GPLv3
