@@ -10,3 +10,4 @@ graphics
         transforms GPLv3
         nested-transforms GPLv3
         quaterions GPLv3
+        euler_angles GPLv3
