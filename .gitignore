@@ -1,0 +1,4 @@
+# GitIgnore for Graphics Tutorials
+
+# Vim Swapfiles
+*.swp
