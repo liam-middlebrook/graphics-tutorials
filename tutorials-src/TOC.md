@@ -3,3 +3,4 @@ graphics
         multi_object_single_buffer GPLv3
         multi_object_multi_buffer GPLv3
         standard_2d GPLv3
+        standard_3d GPLv3
