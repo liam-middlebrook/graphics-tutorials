@@ -6,3 +6,5 @@ graphics
         standard_3d GPLv3
         improved_3d GPLv3
         icosphere GPLv3
+    - transforms
+        transforms GPLv3
