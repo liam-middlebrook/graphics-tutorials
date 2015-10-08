@@ -8,3 +8,4 @@ graphics
         icosphere GPLv3
     - transforms
         transforms GPLv3
+        nested-transforms GPLv3
