@@ -21,3 +21,4 @@
 * instancing-improved GPLv3
 * directional-lighting GPLv3
 * point-lighting GPLv3
+* spot-lighting GPLv3
