@@ -22,3 +22,4 @@
 * directional-lighting GPLv3
 * point-lighting GPLv3
 * spot-lighting GPLv3
+* multiple-lighting GPLv3
