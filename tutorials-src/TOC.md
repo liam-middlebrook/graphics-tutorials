@@ -17,3 +17,4 @@
 
 ### intro-to-graphics
 * textures GPLv3
+* instancing GPLv3
