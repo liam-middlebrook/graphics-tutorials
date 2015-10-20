@@ -14,3 +14,6 @@
 * quaterions GPLv3
 * euler_angles GPLv3
 * rotation_matrix GPLv3
+
+### intro-to-graphics
+* textures GPLv3
