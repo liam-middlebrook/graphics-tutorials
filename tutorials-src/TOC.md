@@ -19,3 +19,4 @@
 * textures GPLv3
 * instancing GPLv3
 * instancing-improved GPLv3
+* directional-lighting GPLv3
