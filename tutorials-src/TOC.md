@@ -25,3 +25,4 @@
 * multiple-lighting GPLv3
 * obj-loading GPLv3
 * skybox GPLv3
+* basic-particle-emitter GPLv3
