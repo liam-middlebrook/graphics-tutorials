@@ -31,3 +31,4 @@
 * advanced-ray-tracer GPLv3
 * marching-cubes GPLv3
 * normal-mapping GPLv3
+* gaussian-blur GPLv3
