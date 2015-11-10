@@ -26,3 +26,4 @@
 * obj-loading GPLv3
 * skybox GPLv3
 * basic-particle-emitter GPLv3
+* basic-ray-tracer GPLv3
