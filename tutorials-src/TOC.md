@@ -29,3 +29,4 @@
 * basic-ray-tracer GPLv3
 * intermediate-ray-tracer GPLv3
 * advanced-ray-tracer GPLv3
+* marching-cubes GPLv3
