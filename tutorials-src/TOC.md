@@ -23,3 +23,4 @@
 * point-lighting GPLv3
 * spot-lighting GPLv3
 * multiple-lighting GPLv3
+* obj-loading GPLv3
