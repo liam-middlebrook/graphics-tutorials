@@ -27,3 +27,4 @@
 * skybox GPLv3
 * basic-particle-emitter GPLv3
 * basic-ray-tracer GPLv3
+* intermediate-ray-tracer GPLv3
